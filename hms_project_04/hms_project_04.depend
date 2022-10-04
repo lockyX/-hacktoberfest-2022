@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631189133 source:f:\projects\a.c++\hms_system\hms_project_04\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+
