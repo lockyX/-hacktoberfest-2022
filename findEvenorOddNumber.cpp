@@ -1,4 +1,5 @@
-// Find Even or Odd number
+// Program to find Even or Odd number
+
 
 #include<iostream>
 using namespace std;
